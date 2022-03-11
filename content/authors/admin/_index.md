@@ -1,7 +1,7 @@
 ---
 title: Jinghang Li
 role: Research Assistant of FAST Lab
-avatar_filename: avatar0.jpg
+avatar_filename: avatar2.jpg
 bio: My research interests include intelligent vehicles, deep learning and
   motion planning.
 interests:
